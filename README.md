@@ -44,7 +44,3 @@ R = 5
 Output:
 Simple Interest = 100.0
 ```
-
----
-
-👉 Do you want me to **also include a Python code snippet for this calculator in the README** and a **badge for GitHub (like Python version, License)**? Or keep it minimal?
